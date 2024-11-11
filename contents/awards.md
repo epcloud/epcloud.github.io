@@ -1,9 +1,2 @@
-- First-prize Academic Scholarship, 2023.
+- 小狗不乖奖_2024.11
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
