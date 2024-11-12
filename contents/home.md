@@ -1,16 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Gong Yu](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ElianeEvans)
 
-She is currently pursuing a Master's Degree in Dog, at School ofDog, WHU, China.
+I am currently a graduate student at Wuhan University, working in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS). My primary research focus is on nighttime light remote sensing.
 
 #### Email
-email here
+gongyyy125@163.com
 
 #### Education
-1
-2
+M.E., Photogrammetry and Remote Sensing, Wuhan University, 2022—2025 (expected).
+B.E., Data Science and Big Data Technology, Hohai University, 2018—2022.
+
+#### Traineeship
+Emergency mapping team, Nov.2022-May 2023
 
 #### Research Interests
-Deep Learning
+Nighttime light applications; disaster response; climate change
 
